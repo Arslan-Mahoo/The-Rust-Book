@@ -21,3 +21,11 @@ variables are initiated by let key word
  let my_arr2 = [1,2,3,4,5,6,7];
  let my_arr3 = [4; 20];
  let a = my_arr2[5];
+
+
+ # Part2 : Functions
+ 1. fn function_name() {} That's how we declare function 
+ 2. function_name() that's how we call a function 
+ 3. parameters  fn function_name(number1: i32) {}, or fn function_name() 
+ 4. if a function has to return a value then fn function_name() -> datatype {}
+ 5. if we have to add 
